@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "CourseId": "headingOne",
+        "dataTarget": "#collapseOne",
+        "ariaControls": "collapseOne",
+        "btnTitle": "Learn Start Basic",
+        "curriculumTitle": "Errem delicatissimi no mel, error vocibus ut vim, te mei aeterno nominavi delectus. Tamquam ornatus pro no",
+        "lecture1": "Lecture 1.1",
+        "lecture2": "Lecture 1.2",
+        "lecture3": "Lecture 1.3",
+        "lectureTitle1": "Lesson With PDF File",
+        "lectureTitle2": "Lesson With File text",
+        "lectureTitle3": "Lesson With video File",
+        "lectureDuration1": "25 Minute",
+        "lectureDuration2": "35 Minute",
+        "lectureDuration3": "45 Minute"
+    },
+    {
+        "id": 2,
+        "CourseId": "headingTwo",
+        "dataTarget": "#collapseTwo",
+        "ariaControls": "collapseTwo",
+        "btnTitle": "Learn Medium Level",
+        "curriculumTitle": "Errem delicatissimi no mel, error vocibus ut vim, te mei aeterno nominavi delectus. Tamquam ornatus pro no",
+        "lecture1": "Lecture 2.1",
+        "lecture2": "Lecture 2.2",
+        "lecture3": "Lecture 2.3",
+        "lectureTitle1": "Lesson With PDF File",
+        "lectureTitle2": "Lesson With File text",
+        "lectureTitle3": "Lesson With video File",
+        "lectureDuration1": "30 Minute",
+        "lectureDuration2": "40 Minute",
+        "lectureDuration3": "50 Minute"
+    },
+    {
+        "id": 3,
+        "CourseId": "headingThree",
+        "dataTarget": "#collapseThree",
+        "ariaControls": "collapseThree",
+        "btnTitle": "Learn Advance Level",
+        "curriculumTitle": "Errem delicatissimi no mel, error vocibus ut vim, te mei aeterno nominavi delectus. Tamquam ornatus pro no",
+        "lecture1": "Lecture 3.1",
+        "lecture2": "Lecture 3.2",
+        "lecture3": "Lecture 3.3",
+        "lectureTitle1": "Lesson With PDF File",
+        "lectureTitle2": "Lesson With File text",
+        "lectureTitle3": "Lesson With video File",
+        "lectureDuration1": "40 Minute",
+        "lectureDuration2": "50 Minute",
+        "lectureDuration3": "60 Minute"
+    }
+]

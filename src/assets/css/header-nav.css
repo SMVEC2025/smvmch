@@ -1,0 +1,235 @@
+.smv-nav {
+    background: transparent;
+    border-bottom: 1px solid #e6e6e6;
+    position: relative;
+    z-index: 2000;
+}
+
+.smv-nav__bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 24px;
+}
+
+.smv-nav__brand {
+    display: inline-flex;
+    align-items: center;
+}
+
+.smv-nav__logo {
+    height: 52px;
+    width: auto;
+}
+
+.smv-nav__toggle {
+    background: none;
+    border: none;
+    display: none;
+    flex-direction: column;
+    gap: 6px;
+    cursor: pointer;
+}
+
+.smv-nav__toggle-line {
+    display: block;
+    width: 26px;
+    height: 2px;
+    background: #1b1b1b;
+}
+
+.smv-nav__menu {
+    border-top: 1px solid #e6e6e6;
+    position: relative;
+    background: transparent;
+}
+
+.smv-nav__list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 18px;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 12px 24px;
+    list-style: none;
+    position: relative;
+}
+
+.smv-nav__item {
+    position: static;
+}
+
+.smv-nav__link-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.smv-nav__link {
+    color: #1b1b1b;
+    font-weight: 500;
+    padding: 6px 4px;
+    text-transform: capitalize;
+}
+
+.smv-nav__caret {
+    background: none;
+    border: none;
+    color: #1b1b1b;
+    font-size: 12px;
+}
+
+.smv-nav__dropdown {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 100%;
+    width: 100%;
+    background: #fff;
+    border-top: 1px solid #e6e6e6;
+    border-bottom: 1px solid #e6e6e6;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+}
+
+.smv-nav__item.is-parent:hover .smv-nav__dropdown {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+}
+
+.smv-nav__mega {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 26px 24px 32px;
+    display: grid;
+    grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr);
+    gap: 80px;
+}
+
+.smv-nav__mega-left {
+    display: flex;
+    flex-direction: column;
+}
+
+.smv-nav__mega-title {
+    font-size: 20px;
+    color: #2b2b2b;
+    margin-bottom: 10px;
+}
+
+.smv-nav__mega-desc {
+    color: #6b6b6b;
+    max-width: 420px;
+    line-height: 1.6;
+    margin-bottom: 16px;
+}
+
+.smv-nav__mega-cta {
+    color: #2b2b2b;
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 6px;
+}
+
+.smv-nav__mega-right {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 18px 36px;
+}
+
+.smv-nav__mega-group {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.smv-nav__mega-group-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+.smv-nav__mega-heading {
+    color: #3a3a3a;
+    font-weight: 600;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #d8d8d8;
+}
+
+.smv-nav__mega-caret {
+    background: none;
+    border: none;
+    color: #3a3a3a;
+    font-size: 12px;
+}
+
+.smv-nav__mega-sublinks {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.smv-nav__mega-link {
+    color: #5b5b5b;
+    font-size: 14px;
+}
+
+.smv-nav__mega-link:hover {
+    color: #111;
+}
+
+@media (max-width: 991px) {
+    .smv-nav__toggle {
+        display: flex;
+    }
+
+    .smv-nav__menu {
+        display: none;
+    }
+
+    .smv-nav__menu.is-open {
+        display: block;
+    }
+
+    .smv-nav__list {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .smv-nav__dropdown {
+        position: static;
+        width: 100%;
+        transform: none;
+        opacity: 1;
+        visibility: visible;
+        pointer-events: auto;
+        border: none;
+        display: none;
+    }
+
+    .smv-nav__item.is-open .smv-nav__dropdown {
+        display: block;
+    }
+
+    .smv-nav__mega {
+        grid-template-columns: 1fr;
+        gap: 24px;
+        padding: 16px 0;
+    }
+
+    .smv-nav__mega-right {
+        grid-template-columns: 1fr;
+    }
+
+    .smv-nav__mega-sublinks {
+        display: none;
+    }
+
+    .smv-nav__mega-sublinks.is-open {
+        display: flex;
+    }
+}

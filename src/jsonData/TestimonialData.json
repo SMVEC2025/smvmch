@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "text": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip venenatis. Vitae sit felis donec, suscipit tortor et sapien donec ac nec. Lorem ipsum dolor sit ligula magna at etiam ligula magna at etiam aliquip venenatis. Vitae sit felis donec suscipit tortor et sapien donec ac nec.",
+        "name": "Michael",
+        "designation": "Ceo & Founder",
+        "image": "testimonial_1.jpg"
+    },
+    {
+        "id": 2,
+        "text": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip venenatis. Vitae sit felis donec, suscipit tortor et sapien donec ac nec. Lorem ipsum dolor sit ligula magna at etiam ligula magna at etiam aliquip venenatis. Vitae sit felis donec suscipit tortor et sapien donec ac nec.",
+        "name": "lucie",
+        "designation": "Ceo & Founder",
+        "image": "testimonial_2.jpg"
+    },
+    {
+        "id": 3,
+        "text": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip venenatis. Vitae sit felis donec, suscipit tortor et sapien donec acLorem ipsum dolor sit ligula magna at etiam ligula magna at etiam aliquip venenatis. Vitae sit felis donec suscipit tortor et sapien donec ac nec.",
+        "name": "Benjamin",
+        "designation": "Ceo & Founder",
+        "image": "testimonial_3.jpg"
+    }
+]

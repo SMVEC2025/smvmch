@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "image": "rs1.jpg",
+        "title": "Accounting & Finance",
+        "text": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip.",
+        "icon": "accounting.png",
+        "delay": 100
+    },
+    {
+        "id": 2,
+        "image": "rs2.jpg",
+        "title": "Development Studies",
+        "text": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip.",
+        "icon": "develop.png",
+        "delay": 200
+    },
+    {
+        "id": 3,
+        "image": "rs3.jpg",
+        "title": "Economics & Econometrics",
+        "text": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip.",
+        "icon": "line-chart.png",
+        "delay": 300
+    },
+    {
+        "id": 4,
+        "image": "rs1.jpg",
+        "title": "Education & Training",
+        "text": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip.",
+        "icon": "presentation.png",
+        "delay": 400
+    },
+    {
+        "id": 5,
+        "image": "rs5.jpg",
+        "title": "Library Management",
+        "text": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip.",
+        "icon": "bookshelf.png",
+        "delay": 500
+    },
+    {
+        "id": 6,
+        "image": "rs1.jpg",
+        "title": "Engineering",
+        "text": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip.",
+        "icon": "development.png",
+        "delay": 600
+    },
+    {
+        "id": 7,
+        "image": "rs1.jpg",
+        "title": "Accounting & Finance",
+        "text": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip.",
+        "icon": "accounting.png",
+        "delay": 700
+    },
+    {
+        "id": 8,
+        "image": "rs2.jpg",
+        "title": "Development Studies",
+        "text": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip.",
+        "icon": "develop.png",
+        "delay": 800
+    },
+    {
+        "id": 9,
+        "image": "rs5.jpg",
+        "title": "Library Management System",
+        "text": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip.",
+        "icon": "bookshelf.png",
+        "delay": 900
+    },
+    {
+        "id": 10,
+        "image": "rs3.jpg",
+        "title": "Economics & Econometrics",
+        "text": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip.",
+        "icon": "line-chart.png",
+        "delay": 1000
+    },
+    {
+        "id": 11,
+        "image": "rs4.jpg",
+        "title": "Education & Training System",
+        "text": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip.",
+        "icon": "presentation.png",
+        "delay": 1100
+    },
+    {
+        "id": 12,
+        "image": "rs1.jpg",
+        "title": "Engineering & Technology",
+        "text": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip.",
+        "icon": "development.png",
+        "delay": 1200
+    }
+]

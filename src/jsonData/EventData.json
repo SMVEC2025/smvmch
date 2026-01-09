@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "image": "g1.jpg",
+        "title": "Mel Apeirian Salutatus Scripserit",
+        "location": "Californiya , United State",
+        "time": "08.00 - 11.30",
+        "text": "Mel apeirian salutatus scripserit ex, omnesque aliquando moderatius cum et. Affert euismod scaevola qui cu.",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "image": "g2.jpg",
+        "title": "Mel Apeirian Salutatus Scripserit",
+        "location": "Californiya , United State",
+        "time": "08.00 - 11.30",
+        "text": "Mel apeirian salutatus scripserit ex, omnesque aliquando moderatius cum et. Affert euismod scaevola qui cu.",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "image": "g3.jpg",
+        "title": "Mel Apeirian Salutatus Scripserit",
+        "location": "Californiya , United State",
+        "time": "08.00 - 11.30",
+        "text": "Mel apeirian salutatus scripserit ex, omnesque aliquando moderatius cum et. Affert euismod scaevola qui cu.",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "image": "g4.jpg",
+        "title": "Mel Apeirian Salutatus Scripserit",
+        "location": "Californiya , United State",
+        "time": "08.00 - 11.30",
+        "text": "Mel apeirian salutatus scripserit ex, omnesque aliquando moderatius cum et. Affert euismod scaevola qui cu.",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "image": "g5.jpg",
+        "title": "Mel Apeirian Salutatus Scripserit",
+        "location": "Californiya , United State",
+        "time": "08.00 - 11.30",
+        "text": "Mel apeirian salutatus scripserit ex, omnesque aliquando moderatius cum et. Affert euismod scaevola qui cu.",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "image": "g6.jpg",
+        "title": "Mel Apeirian Salutatus Scripserit",
+        "location": "Californiya , United State",
+        "time": "08.00 - 11.30",
+        "text": "Mel apeirian salutatus scripserit ex, omnesque aliquando moderatius cum et. Affert euismod scaevola qui cu.",
+        "delay": 1200
+    }
+]

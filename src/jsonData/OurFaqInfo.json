@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Grow Up Business Idea",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "icon": "fa-solid fa-paper-plane"
+    },
+    {
+        "id": 2,
+        "title": "Fast Solution",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "icon": "fa-solid fa-rocket"
+    },
+    {
+        "id": 3,
+        "title": "Life Time Support",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "icon": "fa-solid fa-child-reaching"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "image": "employee.png",
+        "start": 0,
+        "end": 246,
+        "title": "Expert Instructor",
+        "delay": 1,
+        "animationDelay": 200
+    },
+    {
+        "id": 2,
+        "image": "customer.png",
+        "start": 0,
+        "end": 416,
+        "title": "Happy Student",
+        "delay": 2,
+        "animationDelay": 400
+    },
+    {
+        "id": 3,
+        "image": "project.png",
+        "start": 0,
+        "end": 648,
+        "title": "Course Done",
+        "delay": 3,
+        "animationDelay": 600
+    },
+    {
+        "id": 4,
+        "image": "medal.png",
+        "start": 0,
+        "end": 824,
+        "title": "Award Winner",
+        "delay": 4,
+        "animationDelay": 800
+    }
+]

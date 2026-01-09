@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "CourseId": "headingOne",
+        "dataTarget": "#collapseOne",
+        "ariaControls": "collapseOne",
+        "title": "Over 30 years of expeirence",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "id": 2,
+        "CourseId": "headingTwo",
+        "dataTarget": "#collapseTwo",
+        "ariaControls": "collapseTwo",
+        "title": "Deserunt platonem cum ne",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "id": 3,
+        "CourseId": "headingThree",
+        "dataTarget": "#collapseThree",
+        "ariaControls": "collapseThree",
+        "title": "160 + expert employees",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "id": 4,
+        "CourseId": "headingFour",
+        "dataTarget": "#collapseFour",
+        "ariaControls": "collapseFour",
+        "title": "Lorem ipsum dolor sit amet",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    }
+]

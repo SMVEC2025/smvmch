@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "image": "client1.png",
+        "name": "David Max",
+        "subject": "Math Analysis",
+        "text": "Errem delicatissimi no mel, error vocibus ut vim, te mei aeterno nominavi delectus. Tamquam ornatus pro no, cum id elitr soleat maluisset. Mel quas everti insolens cu, duo harum feugiat an."
+    },
+    {
+        "id": 2,
+        "image": "client2.png",
+        "name": "Sarah Micky",
+        "subject": "Geology Analysis",
+        "text": "Errem delicatissimi no mel, error vocibus ut vim, te mei aeterno nominavi delectus. Tamquam ornatus pro no, cum id elitr soleat maluisset. Mel quas everti insolens cu, duo harum feugiat an."
+    },
+    {
+        "id": 3,
+        "image": "client3.png",
+        "name": "Anjalina Joly",
+        "subject": "History Analysis",
+        "text": "Errem delicatissimi no mel, error vocibus ut vim, te mei aeterno nominavi delectus. Tamquam ornatus pro no, cum id elitr soleat maluisset. Mel quas everti insolens cu, duo harum feugiat an."
+    }
+]

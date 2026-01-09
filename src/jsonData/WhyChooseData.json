@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "why_us_1.jpg",
+        "icon": "employees.png",
+        "title": "Warm Environment",
+        "text": "Timeam nusquam usu ut, civibus fabellas eleifend eu vis. Id ipsum civibus pri, te ignota dignissim mel, iisque recteque.",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "image": "why_us_2.jpg",
+        "icon": "statistics.png",
+        "title": "Expert Instructor",
+        "text": "Timeam nusquam usu ut, civibus fabellas eleifend eu vis. Id ipsum civibus pri, te ignota dignissim mel, iisque recteque.",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "image": "why_us_3.jpg",
+        "icon": "locked.png",
+        "title": "Group Teaching",
+        "text": "Timeam nusquam usu ut, civibus fabellas eleifend eu vis. Id ipsum civibus pri, te ignota dignissim mel, iisque recteque.",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "image": "why_us_1.jpg",
+        "icon": "employees.png",
+        "title": "Friendly Environment",
+        "text": "Timeam nusquam usu ut, civibus fabellas eleifend eu vis. Id ipsum civibus pri, te ignota dignissim mel, iisque recteque.",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "image": "why_us_2.jpg",
+        "icon": "statistics.png",
+        "title": "Expert Instructor",
+        "text": "Timeam nusquam usu ut, civibus fabellas eleifend eu vis. Id ipsum civibus pri, te ignota dignissim mel, iisque recteque.",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "image": "why_us_3.jpg",
+        "icon": "locked.png",
+        "title": "Group Teaching",
+        "text": "Timeam nusquam usu ut, civibus fabellas eleifend eu vis. Id ipsum civibus pri, te ignota dignissim mel, iisque recteque.",
+        "delay": 1200
+    }
+]

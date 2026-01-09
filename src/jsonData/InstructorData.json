@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "image": "teacher_1.jpg",
+        "title": "Isabella",
+        "subtitle": "Web Development",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "image": "teacher_2.jpg",
+        "title": "Istiak Ahmed",
+        "subtitle": "Article Writing",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "image": "teacher_3.jpg",
+        "title": "Benjamin",
+        "subtitle": "Graphics Design",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "image": "teacher_4.jpg",
+        "title": "Michael",
+        "subtitle": "Apps Development",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "image": "teacher_2.jpg",
+        "title": "Istiak Ahmed",
+        "subtitle": "Article Writing",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "image": "teacher_3.jpg",
+        "title": "Benjamin",
+        "subtitle": "Graphics Design",
+        "delay": 1200
+    },
+    {
+        "id": 7,
+        "image": "teacher_4.jpg",
+        "title": "Michael",
+        "subtitle": "Apps Development",
+        "delay": 1400
+    },
+    {
+        "id": 8,
+        "image": "teacher_1.jpg",
+        "title": "Isabella",
+        "subtitle": "Web Development",
+        "delay": 1500
+    }
+]

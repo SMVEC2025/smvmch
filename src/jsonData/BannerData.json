@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "We Are Right Person For Your Educations Teaching",
+        "text": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip venenatis. Vitae sit felis donec, suscipit tortor et sapien donec ac nec. Nam vel eu amet",
+        "image": "slide1.jpg",
+        "btn-1": "/about",
+        "btn-2": "/contact"
+    },
+    {
+        "id": 2,
+        "title": "We Are Right Person For Your Educations Teaching",
+        "text": "Lorem ipsum dolor sit amet, ligula magna at etiam aliquip venenatis. Vitae sit felis donec, suscipit tortor et sapien donec ac nec. Nam vel eu amet",
+        "image": "slide2.jpg",
+        "btn-1": "/about",
+        "btn-2": "/contact"
+    }
+]
