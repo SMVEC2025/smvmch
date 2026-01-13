@@ -32,6 +32,7 @@ import Events from './pages/Events';
 import EventWithSidebar from './pages/EventWithSidebar';
 import Event3Column from './pages/Event3Column';
 import About from './pages/About';
+import AcademicCalendar from './pages/AcademicCalendar';
 import Gallery from './pages/Gallery';
 import Instructors from './pages/Instructors';
 import Faq from './pages/Faq';
@@ -85,6 +86,7 @@ function App() {
             <Route path='/event-with-sidebar' element={<EventWithSidebar />}> </Route>
             <Route path='/event-3-column' element={<Event3Column />}> </Route>
             <Route path='/about' element={<About />}> </Route>
+            <Route path='/academics/calendar' element={<AcademicCalendar />}> </Route>
             <Route path='/gallery' element={<Gallery />}> </Route>
             <Route path='/instructors' element={<Instructors />}> </Route>
             <Route path='/faq' element={<Faq />}> </Route>

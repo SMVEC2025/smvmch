@@ -1,0 +1,131 @@
+.smv-about-intro {
+    padding: 60px 20px 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.smv-about-intro__top {
+    display: grid;
+    grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
+    gap: 60px;
+    align-items: start;
+}
+
+.smv-about-intro__headline h2 {
+    font-size: 40px;
+    line-height: 1.25;
+    color: #1f1f1f;
+    margin-bottom: 24px;
+}
+
+.smv-about-intro__actions {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.smv-about-intro__btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 20px;
+    border-radius: 999px;
+    font-weight: 600;
+    border: 1px solid transparent;
+    color: #1f1f1f;
+}
+
+.smv-about-intro__btn--primary {
+    border-color: #1f1f1f;
+    background: #fff;
+}
+
+.smv-about-intro__btn--ghost {
+    background: #f3f4f6;
+    color: #1f1f1f;
+}
+
+.smv-about-intro__icon {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: #5b2aa6;
+    color: #fff;
+    font-size: 12px;
+}
+
+.smv-about-intro__icon--pin {
+    background: #1f1f1f;
+}
+
+.smv-about-intro__content p {
+    color: #5d5d5d;
+    line-height: 1.7;
+    margin-bottom: 24px;
+}
+
+.smv-about-intro__stats {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 18px;
+    border-top: 1px solid #e3e3e3;
+    padding-top: 18px;
+}
+
+.smv-about-intro__stat h3 {
+    font-size: 28px;
+    margin-bottom: 6px;
+    color: #1f1f1f;
+}
+
+.smv-about-intro__stat span {
+    color: #6a6a6a;
+    font-size: 14px;
+}
+
+.smv-about-intro__cards {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 28px;
+    margin-top: 50px;
+}
+
+.smv-about-intro__card {
+    border-top: 1px solid #e3e3e3;
+    padding-top: 20px;
+}
+
+.smv-about-intro__card-number {
+    font-size: 40px;
+    color: #1f1f1f;
+    font-weight: 500;
+    display: inline-block;
+    margin-bottom: 16px;
+}
+
+.smv-about-intro__card h4 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.smv-about-intro__card p {
+    color: #5d5d5d;
+    line-height: 1.7;
+}
+
+@media (max-width: 991px) {
+    .smv-about-intro__top {
+        grid-template-columns: 1fr;
+    }
+
+    .smv-about-intro__stats {
+        grid-template-columns: 1fr;
+    }
+
+    .smv-about-intro__cards {
+        grid-template-columns: 1fr;
+    }
+}

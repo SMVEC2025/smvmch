@@ -1,27 +1,20 @@
 import React from 'react';
-import { HashLink as Link } from 'react-router-hash-link';
+import '../assets/css/breadcrumbs.css';
 
 const BreadCrumb = (props) => {
-    const { pageTitle } = props;
+    const { pageTitle, bgImage } = props;
 
     return (
         <>
-            <section className="page-heading-sec">
-                <div className="images-overlay"></div>
-                <div className="container">
-                    <div className="row">
-                        <div className="col-md-12">
-                            <div className="page-heading">
-                                <h1>{pageTitle ? pageTitle : "404 Error Page"}</h1>
-                            </div>
-                            <div className="breadcrumb-list">
-                                <ul>
-                                    <li><Link to="/#">Home</Link></li>
-                                    <li><Link to="#">{pageTitle ? pageTitle : "404 Error Page"}</Link></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+            <section
+                className="smv-breadcrumb"
+                style={{
+                    backgroundImage: `url(${bgImage || '/img/background/page_hd.jpg'})`
+                }}
+            >
+                <div className="smv-breadcrumb__overlay"></div>
+                <div className="smv-breadcrumb__inner">
+                    <h1 className="smv-breadcrumb__title">{pageTitle ? pageTitle : 'Page'}</h1>
                 </div>
             </section>
         </>
