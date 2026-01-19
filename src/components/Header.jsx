@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from 'react';
+﻿import React, { useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
 import '../assets/css/header-nav.css';
 
@@ -31,19 +31,7 @@ const Header = () => {
 
         return [
             { title: 'Home', path: '/' },
-            {
-                title: 'About Us',
-                path: '/about',
-                children: [
-                    { title: 'About College', path: '/about/about-college' },
-                    { title: 'Vision & Mission', path: '/about/vision-mission' },
-                    { title: 'Trust', path: '/about/trust' },
-                    { title: 'Administration', path: '/about/administration' },
-                    { title: "Chairman’s Message", path: '/about/chairman-message' },
-                    { title: 'Group of Institutions', path: '/about/group-of-institutions' },
-                    { title: 'Contact Us', path: '/contact' }
-                ]
-            },
+            { title: 'About Us', path: '/about' },
             {
                 title: 'Admission',
                 path: '/admission',
@@ -85,7 +73,7 @@ const Header = () => {
                         path: '/students/campus-life',
                         children: [
                             { title: 'Gallery', path: '/students/campus-life/gallery' },
-                            { title: '360° Photos', path: '/students/campus-life/360-photos' },
+                            { title: '360¶ø Photos', path: '/students/campus-life/360-photos' },
                             { title: 'Capacity Enhancement Facilities', path: '/students/campus-life/facilities' }
                         ]
                     },
@@ -173,7 +161,7 @@ const Header = () => {
     }, []);
 
     const descriptions = {
-        'About Us': 'Discover the college’s legacy, leadership, and commitment to healthcare education.',
+        'About Us': 'Discover the college's legacy, leadership, and commitment to healthcare education.',
         Admission: 'Explore eligibility, entrance pathways, and highlights for admissions.',
         Academics: 'Academic resources, calendars, outcomes, and learning pathways.',
         'Student Corner': 'Campus life, alumni, activities, and student support resources.',
@@ -298,3 +286,9 @@ const Header = () => {
 };
 
 export default Header;
+
+
+
+
+
+
